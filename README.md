@@ -23,4 +23,4 @@ Argumente: -NoExit -File D:\Pfad-zur-Datei\FTWatchdog\ftwatchdog.ps1
 
 # log
 - Initial wird vermerkt wenn der Watchdog gestartet wurde: 02/27/2023 20:44:34 - Der Fiskaltrust Watchdog wurde gestartet.
-- jedes Mal wird geloggt wenn der Dienst neu gestartet werden musste: 02/27/2023 20:44:55 - Der fiskaltrust-2346d45f-ca50-472f-b0c6-7fc4c031d661-Dienst wurde neu gestartet.
+- jedes Mal wird geloggt wenn der Dienst neu gestartet werden musste: 02/27/2023 20:44:55 - Der fiskaltrust-123445f-ca50-472f-abcd-7fc4c031d123-Dienst wurde neu gestartet.
