@@ -3,7 +3,6 @@ Fiskaltrust Service Watchdog
 
 ### Ideen und Vorschläge an
 berge@prohotel-edv.de
-https://www.prohotel-edv.de
 
 ### was macht das Programm
 Der Dienst verrichtet auf unerklärliche weise seinen Dienst nicht mehr. Mit dem Wartchdog wird kontinuierlich geprüpft ob der Dienst noch läuft und ggfs. neu gestartet. Es wird eine Protokolldatei über die Neustarts des betreffenden Dienstes geschrieben.
