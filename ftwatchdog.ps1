@@ -1,3 +1,5 @@
+# Source: https://github.com/pro-banic/ft-watchdog
+
 # Name des Dienstes, der überwacht werden soll
 $serviceName = "fiskaltrust-1236d45f-cr50-422f-abc-7fc4c031d123"
 
