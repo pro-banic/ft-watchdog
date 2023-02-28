@@ -10,7 +10,7 @@ Der Dienst verrichtet auf unerklärliche weise seinen Dienst nicht mehr. Mit dem
 # installation
 ## 1. Script anpassen
 - *.ps1 Datei herunterladen
-- Bezeichnung des Fiskaltrust Diensttes anpassen
+- Bezeichnung des Fiskaltrust Dienstes anpassen
 - Pfad zum Log anpassen
 
 ## Aufgabenplanung einrichten
