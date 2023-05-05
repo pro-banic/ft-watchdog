@@ -19,8 +19,8 @@ while ($true) {
         # Schreibe einen Eintrag in das Log-File
         Add-Content -Path $logFile -Value "$(Get-Date) - Der $serviceName-Dienst wurde neu gestartet."
     }
-    # Warte 15 Sekunden, bevor der Loop erneut ausgeführt wird
-    Start-Sleep -Seconds 15
+    # Warte 60 Sekunden, bevor der Loop erneut ausgeführt wird
+    Start-Sleep -Seconds 60
     # Setze die Variable $logWritten auf $true, wenn der Loop zum ersten Mal ausgeführt wird
     if (-not $logWritten) {
         $logWritten = $true
